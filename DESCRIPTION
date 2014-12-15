@@ -1,0 +1,9 @@
+Package: FlowFishFishing
+Type: Package
+Title: Simulations of coastal fisheries
+Version: 0.1
+Date: 2014-12-15
+Author: Bruce E. Kendall
+Maintainer: Bruce E. Kendall <kendall@bren.ucsb.edu>
+Description: A collection of models and analyses of coastal fisheries. The work derives from the NSF-funded project "Flow, Fish and Fishing" (F^3). Research is ongoing; reports and model descriptions will be in the Vignettes folder.
+License: GPL-3
